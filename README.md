@@ -1,6 +1,6 @@
-# Lab Assignment 10
+# Lab 10
 
-In this lab you will practice working with for loops.
+In this lab you will practice working with **for loops** and **nested loops**.
 
 Same as the previous labs, you need to set up your workspace (class and main() method).
 
@@ -34,8 +34,14 @@ Prompt the user to input `n`, the height and length of your pyramid.
 
 <img src="img/expected-output.png" width="400px">
 
-## Submit your assignment
+<br>
 
-[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_10.pdf)
+**Grading Criteria:**
+| Criteria | Points |
+|---|---|
+| Program takes a single input from the user to determine the size of the pyramid. | 10 |
+| Program prints a nxn pyramid, where n is the user input.  | 70 |
+| File and class are named Pyramid. | 10 |
+| Class is public. | 10 |
 
 [How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
